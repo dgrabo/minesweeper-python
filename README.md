@@ -14,7 +14,7 @@ This is a classic Minesweeper game implemented with Python. The goal of the game
 
 1. **Clone the Repository**:
 
-    git clone `https://github.com/dgrabo/minesweeper-python`
+    git clone `https://github.com/dgrabo/minesweeper-python.git`
 
 2. **Running the Game**:
    
